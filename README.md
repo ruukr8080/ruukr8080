@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - 👇 
 -->
 <div align ="right">
- programing dashboard </br>
-  
+ 👇click! 
+ 
 [![wakatime](https://wakatime.com/badge/user/ebd2b175-f4a4-4518-8bd6-1857080e291b.svg)](https://wakatime.com/@ebd2b175-f4a4-4518-8bd6-1857080e291b) 
 
 </div>
