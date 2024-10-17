@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div align ="right">
  👇click! 
  
-[![wakatime](https://wakatime.com/badge/user/ebd2b175-f4a4-4518-8bd6-1857080e291b.svg)](https://wakatime.com/@ebd2b175-f4a4-4518-8bd6-1857080e291b) 
+
 
 </div>
 
@@ -31,19 +31,43 @@ im **Han**, Programer from :kr: South Korea. </br>
 **in operation**
 - [gitpages blog](https://ruukr8080.github.io)
 -->
+
 --- 
 <div align=left><h4>🔥 RECENT </h4></div>
-<div align=left> 
+
+
+
+<div id="art1" > 
+ 
+[![wakatime](https://wakatime.com/badge/user/ebd2b175-f4a4-4518-8bd6-1857080e291b.svg)](https://wakatime.com/@ebd2b175-f4a4-4518-8bd6-1857080e291b) 
+</div>
+
+
+ 
+<div id="art2">
+ <a href="https://wakatime.com/@ebd2b175-f4a4-4518-8bd6-1857080e291b">
+  
+[![일주일 wakatime 통계](https://github-readme-stats.vercel.app/api/wakatime?username=ruukr8080&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ </a>
+</div>
+
+
+
+
+---
+
+<!-- <div align=left> 
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
 </div>
+-->
 </div>
 
-
+<!--
 <div align=left><h4>📚 STACKS</h4></div>
 
 <div align=left> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-<!--   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <br>
   
