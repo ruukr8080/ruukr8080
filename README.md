@@ -4,7 +4,8 @@
 **ruukr8080/ruukr8080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+깃모지 -> https://github.com/jolicode/emoji-search/blob/main/synonyms/cldr-emoji-annotation-synonyms-ko.txt
+기술스택 -> https://simpleicons.org/
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,35 +14,77 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 👇 
 -->
-## 🌱 Hi! 🌱
-
-
-
-[![](https://camo.githubusercontent.com/6c10b23792ce42b867a9558ab867c7b0e89cc9b2e73cc2854445c26261416593/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f546953746f72792d3030303030303f7374796c653d666c61742d737175617265266c6f676f3d546973746f7279266c6f676f436f6c6f723d7768697465)](https://ruukr8082.tistory.com/)
-
-
-[![wakatime](https://wakatime.com/badge/user/ebd2b175-f4a4-4518-8bd6-1857080e291b.svg)](https://wakatime.com/@ebd2b175-f4a4-4518-8bd6-1857080e291b)
-
+<div align ="right">
+ programing dashboard </br>
   
+[![wakatime](https://wakatime.com/badge/user/ebd2b175-f4a4-4518-8bd6-1857080e291b.svg)](https://wakatime.com/@ebd2b175-f4a4-4518-8bd6-1857080e291b) 
 
-## 👩‍💻 Tech Stack
+</div>
 
-[](https://github.com/kseenyoung/kseenyoung?tab=readme-ov-file#-tech-stack)
+##  Hello there <img width=40 src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />
+im **Han**, Programer from :kr: South Korea. </br>
+📫 Feel free to reach out to me for everythings.<br/><br/><br/>
 
- [![](https://camo.githubusercontent.com/3a0d0c2b05a9f7fd71d98f824304e0dbde99f17561508145591939756cc28172/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a4156412d3030373339363f7374796c653d666c61742d737175617265266c6f676f3d4a415641266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/3a0d0c2b05a9f7fd71d98f824304e0dbde99f17561508145591939756cc28172/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a4156412d3030373339363f7374796c653d666c61742d737175617265266c6f676f3d4a415641266c6f676f436f6c6f723d7768697465)   
-[![](https://camo.githubusercontent.com/9f928b5741d38b7c49e0e111bde8e3e99f1be403b5c340fdb7e2228e818687b3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537072696e67426f6f742d3644423333463f7374796c653d666c61742d737175617265266c6f676f3d537072696e67266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/9f928b5741d38b7c49e0e111bde8e3e99f1be403b5c340fdb7e2228e818687b3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537072696e67426f6f742d3644423333463f7374796c653d666c61742d737175617265266c6f676f3d537072696e67266c6f676f436f6c6f723d7768697465) 
+<!-- 
+**in operation**
+- [gitpages blog](https://ruukr8080.github.io)
+-->
+--- 
+<div align=center><h1>🔥 RECENT </h1></div>
+<div align=center> 
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+</div>
+</div>
 
 
- [![](https://camo.githubusercontent.com/0efa8fcd6f09597585ca1b0acbd5f64e77cae7c209143ae65eb517374df7daeb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d3434373941313f7374796c653d666c61742d737175617265266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/0efa8fcd6f09597585ca1b0acbd5f64e77cae7c209143ae65eb517374df7daeb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d3434373941313f7374796c653d666c61742d737175617265266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465)   
+<div align=center><h1>📚 STACKS</h1></div>
+
+<div align=center> 
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+<!--   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  <br>
   
-[![](https://camo.githubusercontent.com/73b945cf4e964d7f10a4d8ebf0cdcdb710f350c86dfdae3ba4f8d65105aa5efc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666c61742d737175617265266c6f676f3d476974266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/73b945cf4e964d7f10a4d8ebf0cdcdb710f350c86dfdae3ba4f8d65105aa5efc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666c61742d737175617265266c6f676f3d476974266c6f676f436f6c6f723d7768697465) [![](https://camo.githubusercontent.com/56fc134fd021c1444d08daffee29f9103929444985da247c2c55b56a35bf3064/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769746875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d476974687562266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/56fc134fd021c1444d08daffee29f9103929444985da247c2c55b56a35bf3064/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769746875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d476974687562266c6f676f436f6c6f723d7768697465)  
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+  <br>
+  
+  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> 
+  <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+  <br>
+  
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 
+  <img src="https://img.shields.io/badge/angular.js-DD0031?style=for-the-badge&logo=angularjs&logoColor=white">
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  <br>
+  
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  
+  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <br>
 
-
-[![](https://camo.githubusercontent.com/f4c674f40b757ef742f1977d749186a177ce184255e4510c78045042c260d52f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5562756e74752d4539353432303f7374796c653d666c61742d737175617265266c6f676f3d5562756e7475266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/f4c674f40b757ef742f1977d749186a177ce184255e4510c78045042c260d52f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5562756e74752d4539353432303f7374796c653d666c61742d737175617265266c6f676f3d5562756e7475266c6f676f436f6c6f723d7768697465)  
-
-
-[![](https://camo.githubusercontent.com/c010cb160699613d7e1408cda30f82ccbcc31154db9becef21d999484d41ba2a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4157532d2532334646393930302e7376673f7374796c653d666c61742d737175617265266c6f676f3d616d617a6f6e2d617773266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/c010cb160699613d7e1408cda30f82ccbcc31154db9becef21d999484d41ba2a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4157532d2532334646393930302e7376673f7374796c653d666c61742d737175617265266c6f676f3d616d617a6f6e2d617773266c6f676f436f6c6f723d7768697465)
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
+  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
+  <br>
+  
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
+  <br> -->
+</div>
 
 ---
 
