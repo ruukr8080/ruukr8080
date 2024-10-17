@@ -32,16 +32,16 @@ im **Han**, Programer from :kr: South Korea. </br>
 - [gitpages blog](https://ruukr8080.github.io)
 -->
 --- 
-<div align=center><h1>🔥 RECENT </h1></div>
-<div align=center> 
+<div align=left><h4>🔥 RECENT </h4></div>
+<div align=left> 
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
 </div>
 </div>
 
 
-<div align=center><h1>📚 STACKS</h1></div>
+<div align=left><h4>📚 STACKS</h4></div>
 
-<div align=center> 
+<div align=left> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
 <!--   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
