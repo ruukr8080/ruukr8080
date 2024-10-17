@@ -16,16 +16,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 👇 
 -->
-<div align ="right">
- 👇click! 
- 
 
-
-</div>
 
 ##  Hello there <img width=40 src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />
 im **Han**, Programer from :kr: South Korea. </br>
 📫 Feel free to reach out to me for everythings.<br/><br/><br/>
+
+
+<!--
+
+<a id="art1"> 
+ // 총 코딩 시간
+ 
+[![wakatime](https://wakatime.com/badge/user/ebd2b175-f4a4-4518-8bd6-1857080e291b.svg)](https://wakatime.com/@ebd2b175-f4a4-4518-8bd6-1857080e291b) 
+</a>
+
+-->
 
 <!-- 
 **in operation**
@@ -37,10 +43,7 @@ im **Han**, Programer from :kr: South Korea. </br>
 
 
 
-<div id="art1" > 
- 
-[![wakatime](https://wakatime.com/badge/user/ebd2b175-f4a4-4518-8bd6-1857080e291b.svg)](https://wakatime.com/@ebd2b175-f4a4-4518-8bd6-1857080e291b) 
-</div>
+
 
 
  
@@ -107,7 +110,15 @@ im **Han**, Programer from :kr: South Korea. </br>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
-  <br> -->
+  <br> 
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+  -->
 </div>
 
 ---
