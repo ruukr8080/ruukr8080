@@ -45,12 +45,10 @@ Here are some ideas to get you started:
 
 ---
 
-<div >
-<!--   href="https://github.com/devxb/gitanimals"> -->
+<div>
 <img
-  pointer-events = "none"
   src="https://render.gitanimals.org/farms/ruukr8080"
   width="1000"
   height="300"
 />
-<!-- </div> -->
+</div>
