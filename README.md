@@ -121,8 +121,6 @@ im **Han**, Programer from :kr: South Korea. </br>
   -->
 </div>
 
----
-
 <div>
 <img
   src="https://render.gitanimals.org/farms/ruukr8080"
