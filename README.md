@@ -1,3 +1,7 @@
+<meta property="og:title" content="깃허브 사용자 프로필">
+<meta property="og:description" content="ㅎㅇㅎㅇ">
+<meta property="og:image" content="https://your-github-profile-image-url.png">
+
 <!--<p align="center" style="font-size:1.2em;"><h4 align="center">👋</h4>-->
 </p>
 <div align="center" style="font-size:1.2em;">
