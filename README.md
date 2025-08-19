@@ -1,6 +1,6 @@
-<meta property="og:title" content="깃허브 사용자 프로필">
-<meta property="og:description" content="ㅎㅇㅎㅇ">
-<meta property="og:image" content="https://your-github-profile-image-url.png">
+<meta property="og:title" content="github-profile">
+<meta property="og:description" content="u cant controll me">
+<meta property="og:image" content="https://github.com/ruukr8080/ruukr8080/blob/main/resources/blackWargraymonjpg.jpg?raw=true">
 
 <!--<p align="center" style="font-size:1.2em;"><h4 align="center">👋</h4>-->
 </p>
