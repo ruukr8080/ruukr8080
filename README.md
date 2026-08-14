@@ -18,6 +18,9 @@
 </p> -->
 <div align="center">
 
+<p align="center">저는 인테리어 목수입니다. 철강도 취급합니다. </p>
+<p align="center">im Carpenter.  I handle metal work as well as wood.</p>
+
 <!--START_SECTION:waka-->
 
 ```java,js,ts,other
